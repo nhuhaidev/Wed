@@ -1,0 +1,6 @@
+name: DataCollector
+version: 1.0.0
+main: vn.hai.anticheat.DataCollectorPlugin
+api-version: 1.20
+description: Hệ thống Ingestion thu thập log hành vi người chơi.
+author: Hai
